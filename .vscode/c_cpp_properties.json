@@ -2,7 +2,6 @@
     "configurations": [
         {
             "name": "Win32",
-            "compilerPath": "C:\\Users\\SSN\\AppData\\Local\\Keil_v5\\C51\\BIN\\C51.EXE",
             "includePath": [
                 "${workspaceFolder}/**",
                 "C:\\Users\\SSN\\AppData\\Local\\Keil_v5\\C51\\INC"
