@@ -35,7 +35,7 @@ To control an LED connected to PC13 of the STM32 Blue Pill using string commands
 
 ## CIRCUIT DIAGRAM
 
-![UART and LED Circuit Diagram](circuit.png)
+![UART and LED Circuit Diagram](circuit - 2.png)
 
 ## CORE LOGIC / PSEUDOCODE
 1. Initialize GPIO and UART peripherals.

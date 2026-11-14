@@ -35,7 +35,7 @@ To establish serial communication between the STM32 Blue Pill and a computer usi
 
 ## CIRCUIT DIAGRAM
 
-![UART Circuit Diagram](circuit.png)
+![UART Circuit Diagram](circuit - 1.png)
 
 ## CORE LOGIC / PSEUDOCODE
 1. Initialize UART peripheral.
