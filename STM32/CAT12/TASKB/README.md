@@ -43,7 +43,7 @@ To control the on-board LED using the user button and maintain its previous stat
 
 ## CIRCUIT DIAGRAM
 
-![LED and User Button Circuit](circuit.png)
+![LED and User Button Circuit](circuit - 2.png)
 
 ## CORE LOGIC / PSEUDOCODE
 

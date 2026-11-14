@@ -38,7 +38,7 @@ To configure and control the on-board LED of the NUCLEO-F410RB development board
 
 ## CIRCUIT DIAGRAM
 
-![On-board LED Circuit](circuit.png)
+![On-board LED Circuit](circuit - 1.png)
 
 ## CORE LOGIC / PSEUDOCODE
 
