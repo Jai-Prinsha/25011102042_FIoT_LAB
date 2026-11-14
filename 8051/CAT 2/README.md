@@ -50,7 +50,7 @@ Compile a minimal bare-metal C program, program the AT89S52 microcontroller, and
 
 ## Circuit Diagram
 
-![Circuit Diagram](circuit.png)
+![Circuit Diagram](Circuit.png)
 
 ## Core Logic / Pseudocode / Code Base
 
