@@ -3,9 +3,6 @@
 ## EXPERIMENT
 Continuous Lab Evaluation – 9
 
-## DATE
-[Enter Experiment Date]
-
 ## NAME OF EXPERIMENT
 String-Based LED Control Using UART
 

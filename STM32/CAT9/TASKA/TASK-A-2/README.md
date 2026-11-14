@@ -4,9 +4,6 @@
 
 Continuous Lab Evaluation – 9
 
-## DATE
-
-[Enter Experiment Date]
 
 ## NAME OF EXPERIMENT
 
@@ -41,9 +38,8 @@ To receive data from a computer through UART communication and transmit the rece
 - The received data is transmitted back to PuTTY.
 - The terminal displays the echoed data.
 
-## CIRCUIT DIAGRAM
-
-![UART Circuit Diagram](circuit.png)
+## Circuit Diagram
+Refer to the parent Task A README for the circuit diagram
 
 ## CORE LOGIC / PSEUDOCODE
 

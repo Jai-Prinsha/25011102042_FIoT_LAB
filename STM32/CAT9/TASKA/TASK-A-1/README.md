@@ -4,9 +4,6 @@
 
 Continuous Lab Evaluation – 9
 
-## DATE
-
-[Enter Experiment Date]
 
 ## NAME OF EXPERIMENT
 
@@ -39,9 +36,8 @@ To establish UART communication between the STM32 Blue Pill and a computer and t
 - Messages are transmitted from STM32 to the computer.
 - PuTTY displays the received messages.
 
-## CIRCUIT DIAGRAM
-
-![UART Circuit Diagram](circuit.png)
+## Circuit Diagram
+Refer to the parent Task A README for the circuit diagram
 
 ## CORE LOGIC / PSEUDOCODE
 

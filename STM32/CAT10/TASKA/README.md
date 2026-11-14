@@ -4,9 +4,6 @@
 
 Continuous Lab Evaluation – 10 Task A
 
-## DATE
-
-[Enter Experiment Date]
 
 ## NAME OF EXPERIMENT
 
