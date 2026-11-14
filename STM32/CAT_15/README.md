@@ -97,7 +97,10 @@ The dashboard provides graphical representations of the environmental parameters
 
 ### Node-RED Flow
 
+
 ![Node-RED Flow](node_red_flow.jpeg)
+
+*Figure 2: Node-RED flow showing sensor data processing, OpenWeather API integration, and dashboard connections.*
 
 *Figure 2: Node-RED flow showing sensor data processing, OpenWeather API integration, and dashboard connections.*
 
