@@ -37,16 +37,18 @@ Compile a minimal bare-metal C program, program the AT89S52 microcontroller, and
 
 ## HARDWARE BRING-UP SHEET
 
-| Parameter | Student Entry |
-|---|---|
-| MCU | AT89S52 |
-| CPU Core | 8051 |
-| Operating Voltage | 5V (verify board supply) |
-| Debug Interface | Board programmer |
-| LED GPIO Port | Port 1 (assumed) |
-| LED GPIO Pin | P1.0 (verify board connection) |
-| LED Active State | Active HIGH (verify board connection) |
-| LED Frequency | Approximately 1 Hz |
++--------------------------------+--------------------------------+
+|          PARAMETER             |         STUDENT ENTRY          |
++--------------------------------+--------------------------------+
+| MCU                            | AT89S52                         |
+| CPU Core                       | 8051                            |
+| Operating Voltage              | 5V                              |
+| Debug Interface                | Board Programmer                |
+| LED GPIO Port                  | Port 1                          |
+| LED GPIO Pin                   | P1.0                            |
+| LED Active State               | Active HIGH                     |
+| LED Frequency                  | Approximately 1 Hz              |
++--------------------------------+--------------------------------+
 
 ## Circuit Diagram
 
