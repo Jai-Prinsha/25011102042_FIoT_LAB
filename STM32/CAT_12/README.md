@@ -44,6 +44,9 @@ This folder contains three experiments demonstrating LED control and push-button
 - Used HAL_GetTick() for non-blocking timing.
 
 **Observation:** The LED responded differently to short and long button presses.
+## Circuit Diagram
+
+![Circuit Diagram](circuit.png)
 
 ## Tools Used
 - STM32CubeMX

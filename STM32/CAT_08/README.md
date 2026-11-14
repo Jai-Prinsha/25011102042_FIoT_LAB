@@ -52,8 +52,8 @@ Classify button presses based on duration.
 - `HAL_Delay()` – Optional for simple initial testing.
 
 ## Circuit Diagram
-_To be added using the actual circuit diagrams._
 
+![Circuit Diagram](circuit.png)
 ## Implementation
 Separate task implementations are maintained in their respective task folders.
 

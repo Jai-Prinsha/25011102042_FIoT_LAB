@@ -35,6 +35,10 @@ This folder contains experiments demonstrating UART communication between the ST
 
 **Observation:** The LED responded to the commands received through the serial terminal.
 
+## Circuit Diagram
+
+![Circuit Diagram](circuit.png)
+
 ## Tools Used
 - STM32CubeMX
 - Keil MDK-ARM

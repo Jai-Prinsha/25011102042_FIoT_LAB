@@ -39,6 +39,10 @@ This folder contains experiments demonstrating communication between the STM32 B
 - Used AT commands to connect to a Wi-Fi network.
 - Checked the connection response.
 
+## Circuit Diagram
+
+![Circuit Diagram](circuit.png)
+
 ## Tools Used
 - STM32CubeMX
 - Keil MDK-ARM
